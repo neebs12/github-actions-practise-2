@@ -1,0 +1,23 @@
+{
+  "name": "github-actions-practise-2",
+  "version": "1.0.0",
+  "description": "Used for referencing actions for main github-actions practise repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neebs12/github-actions-practise-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neebs12/github-actions-practise-2/issues"
+  },
+  "homepage": "https://github.com/neebs12/github-actions-practise-2#readme",
+  "dependencies": {
+    "@actions/core": "^1.10.0",
+    "@actions/github": "^5.1.1"
+  }
+}
